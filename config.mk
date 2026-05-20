@@ -86,6 +86,10 @@ PRODUCT_PACKAGES += \
     IconShapeRoundedRectOverlay \
     IconShapeSquareOverlay \
     IconShapeSquircleOverlay \
+    IconShapeArchOverlay \
+    IconShapeFourSidedCookieOverlay \
+    IconShapeSevenSidedCookieOverlay \
+    IconShapeIosOverlay \
     IconShapeTeardropOverlay
 
 # Lockscreen Clock Styles
